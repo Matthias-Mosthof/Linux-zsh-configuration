@@ -1,0 +1,1 @@
+My own zsh configuration divided into separate files to enhance overall organization and ease of understanding.
