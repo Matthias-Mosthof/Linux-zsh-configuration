@@ -5,6 +5,6 @@ In order to make this work create .zshrc file in home directory and source those
 Antigen needs to be installed on the system
 ```
 sudo apt-get install zsh-antigen
-
 ```
+
 
